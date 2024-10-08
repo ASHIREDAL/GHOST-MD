@@ -14,7 +14,5 @@ AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
 MODE: process.env.MODE || "public",
 AUTO_VOICE:"true"
 };
-AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || 'true',
-antilink: process.env.ANTILINK_VALUES || 'chat.whatsapp.com'    
-antilinkaction: process.env.ANTILINK_ACTION || 'remove',
+
     
